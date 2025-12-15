@@ -1,4 +1,4 @@
-# JMeter Test Plan for Simple Books API
+# Postman & JMeter Test Plan for Simple Books API
 
 This repository contains a JMeter test plan for interacting with the [Simple Books API](https://simple-books-api.glitch.me).
 
